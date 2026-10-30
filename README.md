@@ -16,13 +16,13 @@ What drives me is the idea of bringing technology and art closer together, explo
 - Digital Signal Processing
 - Electroacoustics
 - Electronics
+- Embedded Systems
 - Generative Music
 - Machine Learning
 - MIDI
 - Music Information Retrieval
 - Psychoacoustics
 - Room Acoustics
-- Sonification
 - Sound Synthesis
 - Virtual Analog Modeling
 
