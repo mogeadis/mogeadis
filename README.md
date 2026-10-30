@@ -33,27 +33,27 @@ What drives me is the idea of bringing technology and art closer together, explo
 
 ### 🔊 Audio & Music
 
-- **[AIron Drummer 🤖](https://github.com/mogeadis/AIron-Drummer)** — an AI-powered drum machine capable of generating MIDI drum tracks in the style of Iron Maiden.
-- **[GS-Detector 🎸](https://github.com/mogeadis/GS-Detector)** — a guitar string detection algorithm based on inharmonicity, to be used in automatic tablature transcription.
-- **[MIDI-GP 🔘](https://github.com/mogeadis/MIDI-GP)** — a TRS MIDI interface based on the ATmega32U4 microcontroller, designed for controlling music gear with a number of footswitches and an expression pedal.
-- **[MIDI-XP 📈](https://github.com/mogeadis/MIDI-XP)** — a USB MIDI interface based on the ATmega32U4 microcontroller, designed for controlling music software with an expression pedal.
-- **[MS-ProtoSynth 🎹](https://github.com/mogeadis/MS-ProtoSynth)** — a prototype multi-engine polyphonic synthesizer implemented in a Max/MSP environment.
-- **[RANDrumizer 🥁](https://github.com/mogeadis/RANDrumizer)** — a rudimentary LSTM-VAE neural network designed for random drum pattern generation applications.
-- **[SamplerINO 🔲](https://github.com/mogeadis/SamplerINO)** — a MIDI controller based on the ATmega32U4 microcontroller and the CAP1188 capacitive touch sensor module, with a dedicated software sampler implemented in a Max/MSP environment.
-- **[VI-Pads 🔳](https://github.com/mogeadis/VI-Pads)** — a web-based virtual drumpad designed for desktop and mobile devices, optionally operated by a MIDI controller.
+- **[AIron Drummer](https://github.com/mogeadis/AIron-Drummer)** 🤖 — an AI-powered drum machine capable of generating MIDI drum tracks in the style of Iron Maiden.
+- **[GS-Detector](https://github.com/mogeadis/GS-Detector)** 🎸 — a guitar string detection algorithm based on inharmonicity, to be used in automatic tablature transcription.
+- **[MIDI-GP](https://github.com/mogeadis/MIDI-GP)** 🔘 — a TRS MIDI interface based on the ATmega32U4 microcontroller, designed for controlling music gear with a number of footswitches and an expression pedal.
+- **[MIDI-XP](https://github.com/mogeadis/MIDI-XP)** 📈 — a USB MIDI interface based on the ATmega32U4 microcontroller, designed for controlling music software with an expression pedal.
+- **[MS-ProtoSynth](https://github.com/mogeadis/MS-ProtoSynth)** 🎹 — a prototype multi-engine polyphonic synthesizer implemented in a Max/MSP environment.
+- **[RANDrumizer](https://github.com/mogeadis/RANDrumizer)** 🥁 — a rudimentary LSTM-VAE neural network designed for random drum pattern generation applications.
+- **[SamplerINO](https://github.com/mogeadis/SamplerINO)** 🔲 — a MIDI controller based on the ATmega32U4 microcontroller and the CAP1188 capacitive touch sensor module, with a dedicated software sampler implemented in a Max/MSP environment.
+- **[VI-Pads](https://github.com/mogeadis/VI-Pads)** 🔳 — a web-based virtual drumpad designed for desktop and mobile devices, optionally operated by a MIDI controller.
 
 ### 🎲 Side Quests
 
-- **[AVRaffic Light 🚦](https://github.com/mogeadis/AVRaffic-Light)** — a prototype traffic light circuit based on the ATmega328P microcontroller of the AVR family, programmed in bare-metal C.
-- **[DSync 🕹️](https://github.com/mogeadis/DSync)** — a script that synchronizes and converts between .srm and .dsv save files used by Nintendo DS emulators.
-- **[Wi-Fire 🧨](https://github.com/mogeadis/Wi-Fire)** — a 6-channel RF wireless firing system based on the ATmega328P microcontroller and the nRF24L01+ transceiver module, designed for fireworks.
+- **[AVRaffic Light](https://github.com/mogeadis/AVRaffic-Light)** 🚦 — a prototype traffic light circuit based on the ATmega328P microcontroller of the AVR family, programmed in bare-metal C.
+- **[DSync](https://github.com/mogeadis/DSync)** 🕹️ — a script that synchronizes and converts between .srm and .dsv save files used by Nintendo DS emulators.
+- **[Wi-Fire](https://github.com/mogeadis/Wi-Fire)** 🧨 — a 6-channel RF wireless firing system based on the ATmega328P microcontroller and the nRF24L01+ transceiver module, designed for fireworks.
 
 ### 🚧 Under Construction
 
-- **[MTA Gainz ⚡](https://github.com/mogeadis/MTA-Gainz)** — a virtual analog model of the MXR Distortion+ pedal.
-- **[TAP-DL 🔁](https://github.com/mogeadis/TAP-DL)** — a digital stereo delay plugin.
-- **[TAP-JX 🎛️](https://github.com/mogeadis/TAP-JX)** — a synth plugin based on JX-10.
-- **[VAM DS1 🔥](https://github.com/mogeadis/VAM-DS1)** — a virtual analog model of the BOSS DS-1 pedal.
+- **[MTA Gainz](https://github.com/mogeadis/MTA-Gainz)** ⚡ — a virtual analog model of the MXR Distortion+ pedal.
+- **[TAP-DL](https://github.com/mogeadis/TAP-DL)** 🔁 — a digital stereo delay plugin.
+- **[TAP-JX](https://github.com/mogeadis/TAP-JX)** 🎛️ — a synth plugin based on JX-10.
+- **[VAM DS1](https://github.com/mogeadis/VAM-DS1)** 🔥 — a virtual analog model of the BOSS DS-1 pedal.
 
 
 ## 🧱 Tech Stack
