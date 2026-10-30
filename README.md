@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Introduction
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-gray?logo=linkedin-white&style=for-the-badge&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/mogeadis/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-gray?logo=linkedin-white&style=for-the-badge&labelColor=0A66C2&logoColor=white)](https://linkedin.com/in/mogeadis/)
 
 I'm **Alex**, an audio enthusiast with a particular interest in applying **DSP** and **AI** techniques for music applications.
 Over the years, I've gained professional experience in music software engineering, backed by an academic background comprising an **MSc** in *Sound & Music Technologies* and an **Integrated MSc** in *Electrical & Computer Engineering*.
