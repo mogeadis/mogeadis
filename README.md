@@ -60,7 +60,7 @@ What drives me is the idea of bringing technology and art closer together, explo
 
 ### ⌨️ Coding
 
-![Bash](https://custom-icon-badges.demolab.com/badge/Bash-gray?logo=bash-colored&style=for-the-badge)
+![Bash](https://custom-icon-badges.demolab.com/badge/Bash-gray?logo=bash-coloured&style=for-the-badge)
 ![C](https://custom-icon-badges.demolab.com/badge/C-gray?logo=c-colored&style=for-the-badge)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-gray?logo=cpp-colored&style=for-the-badge)
 ![CSS](https://custom-icon-badges.demolab.com/badge/CSS-gray?logo=css-colored&style=for-the-badge)
@@ -79,9 +79,9 @@ What drives me is the idea of bringing technology and art closer together, explo
 ![GoogleTest](https://custom-icon-badges.demolab.com/badge/GoogleTest-gray?logo=googletest-colored&style=for-the-badge)
 ![JUCE](https://custom-icon-badges.demolab.com/badge/JUCE-gray?logo=juce-colored&style=for-the-badge)
 ![Jupyter](https://custom-icon-badges.demolab.com/badge/Jupyter-gray?logo=jupyter-colored&style=for-the-badge)
-![Keras](https://custom-icon-badges.demolab.com/badge/Keras-gray?logo=keras-colored&style=for-the-badge)
+![Keras](https://custom-icon-badges.demolab.com/badge/Keras-gray?logo=keras-coloured&style=for-the-badge)
 ![LaTeX](https://custom-icon-badges.demolab.com/badge/LaTeX-gray?logo=latex-coloured&style=for-the-badge)
-![Markdown](https://custom-icon-badges.demolab.com/badge/Markdown-gray?logo=markdown-colored&style=for-the-badge)
+![Markdown](https://custom-icon-badges.demolab.com/badge/Markdown-gray?logo=markdown-coloured&style=for-the-badge)
 ![PlatformIO](https://custom-icon-badges.demolab.com/badge/PlatformIO-gray?logo=platformio-colored&style=for-the-badge)
 ![PyTorch](https://custom-icon-badges.demolab.com/badge/PyTorch-gray?logo=pytorch-colored&style=for-the-badge)
 ![TensorFlow](https://custom-icon-badges.demolab.com/badge/TensorFlow-gray?logo=tensorflow-colored&style=for-the-badge)
