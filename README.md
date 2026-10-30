@@ -19,7 +19,7 @@ What drives me is the idea of bringing technology and art closer together, explo
 - Embedded Systems
 - Generative Music
 - Machine Learning
-- MIDI
+- MIDI Protocol
 - Music Information Retrieval
 - Psychoacoustics
 - Room Acoustics
